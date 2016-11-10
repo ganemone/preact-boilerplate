@@ -106,7 +106,7 @@ module.exports = {
 
 	node: {
 		global: true,
-		process: false,
+		process: true,
 		Buffer: false,
 		__filename: false,
 		__dirname: false,
